@@ -1,0 +1,12 @@
+.add{
+    height: 41px;
+    padding: -8px 14px 5px 0px;
+    margin-top: 2rem !important;
+}
+.edit{
+    padding: 0px 10px 11px 13px !important;
+    height: 29px !important;
+}
+#disable{
+    text-decoration: line-through;
+  }
